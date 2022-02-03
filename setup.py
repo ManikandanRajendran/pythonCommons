@@ -4,14 +4,12 @@ import setuptools
 setuptools.setup(
   name="commons",
   version="1.0",
-  url="https://github.com/ManikandanRajendran/pythonCommons"
+  url="https://github.com/ManikandanRajendran/pythonCommons",
   packages=setuptools.find_packages(),
     platforms='any',
-
     install_requires=[
       'requests'
-    ],
-  
+    ],  
   extras_require={}, 
   package_data={},
   classifiers=[],)
