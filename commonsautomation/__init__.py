@@ -1,0 +1,2 @@
+from sample_functions1 import FromFunction1
+from sample_functions2 import FromFunction2
